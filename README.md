@@ -17,6 +17,7 @@ The *Paper Toss Adventure* repository must be cloned to receive all required con
 2. Run git command `clone` with repository URL
 > `git clone [URL]`
 3. Launch Unreal Project **{Ensure VR Headset is plugged in}**
+
 |Method|Instructions|
 |------|------------|
 |From Windows Explorer|<ol><li>Navigate to repository</li><li>Run `Paper_Toss_Adventure.uproject`</li></ol>|
